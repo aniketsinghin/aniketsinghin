@@ -74,5 +74,5 @@ that cryptography happens to sit inside.
 
 ## Elsewhere
 
-- LinkedIn — [linkedin.com/in/icfai-aniketsingh](https://www.linkedin.com/in/icfai-aniketsingh)
+- LinkedIn — [linkedin.com/in/aniketsinghin](https://www.linkedin.com/in/aniketsinghin)
 
