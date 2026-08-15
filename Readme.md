@@ -60,7 +60,7 @@ that cryptography happens to sit inside.
 ## Advisory & Governance
 
 - **Technical advisor** to community and open-source products deployed globally
-- **Independent Director** — board roles across [COMPANIES / SECTORS]
+- **Independent Director** — board and governance roles
 - Architecture review and technology due diligence
 
 ---
@@ -75,3 +75,5 @@ that cryptography happens to sit inside.
 ## Elsewhere
 
 - LinkedIn — [linkedin.com/in/icfai-aniketsingh](https://www.linkedin.com/in/icfai-aniketsingh)
+
+<sub>Opinions are my own.</sub>
