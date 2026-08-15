@@ -76,4 +76,3 @@ that cryptography happens to sit inside.
 
 - LinkedIn — [linkedin.com/in/icfai-aniketsingh](https://www.linkedin.com/in/icfai-aniketsingh)
 
-<sub>Opinions are my own.</sub>
